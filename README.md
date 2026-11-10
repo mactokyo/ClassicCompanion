@@ -6,7 +6,7 @@
 
 Bring it up with **⌥ Space**. Switch between Quick and Full windows with **⌃⌘F**. Make both shortcuts your own in Settings.
 
-**[Download DMG →](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)** · [Download ZIP](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.zip) · [All releases & notes](https://github.com/mactokyo/ClassicCompanion/releases) · [Feedback](https://github.com/mactokyo/ClassicCompanion/issues)
+**[Download DMG →](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)** · [All releases & notes](https://github.com/mactokyo/ClassicCompanion/releases) · [Feedback](https://github.com/mactokyo/ClassicCompanion/issues)
 
 <sub>0.1.0-beta.1 · Public beta · macOS 15+ · Apple silicon (arm64)</sub>
 
@@ -39,7 +39,7 @@ Classic Companion 用原生 macOS 窗口打开 ChatGPT 官方网页。默认按 
 
 本仓库只用来发布试用版和收集反馈，不含源码；应用没有以开源许可证发布。
 
-**现状**：首个试用版 0.1.0-beta.1 已发布，可以从 [Releases](https://github.com/mactokyo/ClassicCompanion/releases) 下载。这是试用版，不是正式稳定版。直接下载：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg) · [ZIP](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.zip)
+**现状**：首个试用版 0.1.0-beta.1 已发布，可以从 [Releases](https://github.com/mactokyo/ClassicCompanion/releases) 下载。这是试用版，不是正式稳定版。直接下载：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
 
 **安装**
 
@@ -48,10 +48,15 @@ Classic Companion 用原生 macOS 窗口打开 ChatGPT 官方网页。默认按 
 2. 双击 DMG 打开，把 `Classic Companion` 拖到“应用程序”文件夹。
 3. 在“应用程序”里双击打开，然后登录 ChatGPT 账号。
 
+<details>
+<summary>备用安装方式：从 Releases 获取 ZIP</summary>
+
 用 ZIP 安装：
 1. 从 Releases 下载 ZIP，可以用同页的 `SHA256SUMS` 核对文件。
 2. 浏览器没有自动解压的话，在“访达”里双击 ZIP 解压。
 3. 把 `Classic Companion` 拖到“应用程序”文件夹，再在“应用程序”里双击打开，然后登录 ChatGPT 账号。
+
+</details>
 
 第一次打开时，macOS 可能会弹出安全确认，确认是 Classic Companion 后选择打开即可。如果 macOS 提示无法打开，请不要更改系统的安全设置，可以到 Issues 反馈。
 
@@ -82,7 +87,7 @@ Classic Companion 以原生 macOS 視窗開啟 ChatGPT 官方網頁。預設按 
 
 本儲存庫只用來發佈試用版和收集回饋，不含原始碼；App 沒有以開放原始碼授權發佈。
 
-**現況**：第一個試用版 0.1.0-beta.1 已發佈，可以從 [Releases](https://github.com/mactokyo/ClassicCompanion/releases) 下載。這是試用版，不是正式穩定版。直接下載：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg) · [ZIP](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.zip)
+**現況**：第一個試用版 0.1.0-beta.1 已發佈，可以從 [Releases](https://github.com/mactokyo/ClassicCompanion/releases) 下載。這是試用版，不是正式穩定版。直接下載：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
 
 **安裝**
 
@@ -91,10 +96,15 @@ Classic Companion 以原生 macOS 視窗開啟 ChatGPT 官方網頁。預設按 
 2. 按兩下 DMG 打開，把 `Classic Companion` 拖到「應用程式」檔案夾。
 3. 在「應用程式」中按兩下打開，然後登入 ChatGPT 帳號。
 
+<details>
+<summary>備用安裝方式：從 Releases 取得 ZIP</summary>
+
 用 ZIP 安裝：
 1. 從 Releases 下載 ZIP，可以用同一頁的 `SHA256SUMS` 核對檔案。
 2. 如果瀏覽器沒有自動解壓縮，在「Finder」中按兩下 ZIP 解壓縮。
 3. 把 `Classic Companion` 拖到「應用程式」檔案夾，再在「應用程式」中按兩下打開，然後登入 ChatGPT 帳號。
+
+</details>
 
 第一次打開時，macOS 可能會要求安全確認，確認是 Classic Companion 後選擇打開即可。如果 macOS 提示無法打開，請不要更改系統的安全設定，可以到 Issues 回饋。
 
@@ -125,7 +135,7 @@ Classic Companion opens the official ChatGPT website in a native macOS window. B
 
 This repository is used only to publish trial builds and collect feedback. It doesn’t contain the source code, and the app isn’t released under an open-source license.
 
-**Status**: the first trial build, 0.1.0-beta.1, is out. You can download it from [Releases](https://github.com/mactokyo/ClassicCompanion/releases). It’s a trial build, not a stable release. Direct download: [DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg) · [ZIP](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.zip)
+**Status**: the first trial build, 0.1.0-beta.1, is out. You can download it from [Releases](https://github.com/mactokyo/ClassicCompanion/releases). It’s a trial build, not a stable release. Direct download: [DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
 
 **Install**
 
@@ -134,10 +144,15 @@ From the DMG:
 2. Double-click the DMG to open it, and drag `Classic Companion` to the Applications folder.
 3. Double-click it in Applications, then sign in to your ChatGPT account.
 
+<details>
+<summary>Alternative installation: ZIP from Releases</summary>
+
 From the ZIP:
 1. Download the ZIP from Releases. You can check it against `SHA256SUMS` on the same page.
 2. If your browser didn’t unzip it, double-click the ZIP in Finder.
 3. Drag `Classic Companion` to the Applications folder, double-click it there, then sign in to your ChatGPT account.
+
+</details>
 
 The first time you open it, macOS may ask you to confirm; check that it’s Classic Companion and choose to open it. If macOS says the app can’t be opened, don’t change your Mac’s security settings; please report it on Issues instead.
 
@@ -168,7 +183,7 @@ Classic Companion は、ChatGPT の公式 Web サイトをネイティブの mac
 
 このリポジトリはベータ版の配布とフィードバックの受け付けにだけ使っています。ソースコードは含まれておらず、アプリはオープンソースライセンスで公開されていません。
 
-**現在の状況**：最初のベータ版 0.1.0-beta.1 を公開しました。[Releases](https://github.com/mactokyo/ClassicCompanion/releases) からダウンロードできます。ベータ版で、安定版ではありません。直接ダウンロード：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg) · [ZIP](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.zip)
+**現在の状況**：最初のベータ版 0.1.0-beta.1 を公開しました。[Releases](https://github.com/mactokyo/ClassicCompanion/releases) からダウンロードできます。ベータ版で、安定版ではありません。直接ダウンロード：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
 
 **インストール**
 
@@ -177,10 +192,15 @@ DMG からインストールする場合：
 2. DMG をダブルクリックして開き、`Classic Companion` を「アプリケーション」フォルダにドラッグします。
 3. 「アプリケーション」でダブルクリックして開き、ChatGPT アカウントにログインします。
 
+<details>
+<summary>代替のインストール方法：Releases の ZIP</summary>
+
 ZIP からインストールする場合：
 1. Releases から ZIP をダウンロードします。同じページの `SHA256SUMS` でファイルを確認できます。
 2. ブラウザが展開していない場合は、Finder で ZIP をダブルクリックして展開します。
 3. `Classic Companion` を「アプリケーション」フォルダにドラッグし、そこでダブルクリックして開き、ChatGPT アカウントにログインします。
+
+</details>
 
 初めて開くとき、macOS が確認を求めることがあります。Classic Companion であることを確かめてから開いてください。開けないと表示された場合は、Mac のセキュリティ設定を変更せず、Issues でお知らせください。
 
