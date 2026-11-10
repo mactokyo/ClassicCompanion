@@ -13,7 +13,7 @@ Classic Companion 用原生 macOS 窗口打开 ChatGPT 官方网页。默认按 
 
 本仓库只用来发布试用版和收集反馈，不含源码；应用没有以开源许可证发布。
 
-**现状**：首个试用版 0.1.0-beta.1 已发布，可以从 [Releases](https://github.com/mactokyo/ClassicCompanion/releases) 下载。这是试用版，不是正式稳定版。
+**现状**：首个试用版 0.1.0-beta.1 已发布，可以从 [Releases](https://github.com/mactokyo/ClassicCompanion/releases) 下载。这是试用版，不是正式稳定版。直接下载：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg) · [ZIP](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.zip)
 
 **安装**
 
@@ -56,7 +56,7 @@ Classic Companion 以原生 macOS 視窗開啟 ChatGPT 官方網頁。預設按 
 
 本儲存庫只用來發佈試用版和收集回饋，不含原始碼；App 沒有以開放原始碼授權發佈。
 
-**現況**：第一個試用版 0.1.0-beta.1 已發佈，可以從 [Releases](https://github.com/mactokyo/ClassicCompanion/releases) 下載。這是試用版，不是正式穩定版。
+**現況**：第一個試用版 0.1.0-beta.1 已發佈，可以從 [Releases](https://github.com/mactokyo/ClassicCompanion/releases) 下載。這是試用版，不是正式穩定版。直接下載：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg) · [ZIP](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.zip)
 
 **安裝**
 
@@ -99,7 +99,7 @@ Classic Companion opens the official ChatGPT website in a native macOS window. B
 
 This repository is used only to publish trial builds and collect feedback. It doesn’t contain the source code, and the app isn’t released under an open-source license.
 
-**Status**: the first trial build, 0.1.0-beta.1, is out. You can download it from [Releases](https://github.com/mactokyo/ClassicCompanion/releases). It’s a trial build, not a stable release.
+**Status**: the first trial build, 0.1.0-beta.1, is out. You can download it from [Releases](https://github.com/mactokyo/ClassicCompanion/releases). It’s a trial build, not a stable release. Direct download: [DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg) · [ZIP](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.zip)
 
 **Install**
 
@@ -142,7 +142,7 @@ Classic Companion は、ChatGPT の公式 Web サイトをネイティブの mac
 
 このリポジトリはベータ版の配布とフィードバックの受け付けにだけ使っています。ソースコードは含まれておらず、アプリはオープンソースライセンスで公開されていません。
 
-**現在の状況**：最初のベータ版 0.1.0-beta.1 を公開しました。[Releases](https://github.com/mactokyo/ClassicCompanion/releases) からダウンロードできます。ベータ版で、安定版ではありません。
+**現在の状況**：最初のベータ版 0.1.0-beta.1 を公開しました。[Releases](https://github.com/mactokyo/ClassicCompanion/releases) からダウンロードできます。ベータ版で、安定版ではありません。直接ダウンロード：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg) · [ZIP](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.zip)
 
 **インストール**
 
