@@ -1,4 +1,30 @@
+<a href="https://github.com/mactokyo"><img src="assets/companion-banner.svg" alt="Classic Companion — ChatGPT, a shortcut away on your Mac. An independent app by MacTokyo." width="1200"></a>
+
 # Classic Companion
+
+**The official ChatGPT website, in a native macOS window.**
+
+Bring it up with **⌥ Space**. Switch between Quick and Full windows with **⌃⌘F**. Make both shortcuts your own in Settings.
+
+**[Download DMG →](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)** · [Download ZIP](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.zip) · [All releases & notes](https://github.com/mactokyo/ClassicCompanion/releases) · [Feedback](https://github.com/mactokyo/ClassicCompanion/issues)
+
+<sub>0.1.0-beta.1 · Public beta · macOS 15+ · Apple silicon (arm64)</sub>
+
+[简体中文](#简体中文) · [繁體中文](#繁體中文) · [English](#english) · [日本語](#日本語)
+
+| Close at hand | Room to focus | Make it yours |
+| :--- | :--- | :--- |
+| Bring up your chat with a customizable shortcut. | Move between Quick and Full windows in the same conversation. | Adjust page zoom and choose from four app interface languages. |
+
+<details>
+<summary>Preview · Native app settings</summary>
+<br>
+<img src="https://raw.githubusercontent.com/mactokyo/.github/main/assets/companion-settings.png" alt="Classic Companion General settings: app language, page zoom, conversation restoration, input focus and Escape behavior." width="440">
+</details>
+
+Built by **[Mac Xiang](https://github.com/xtymac)** at **[MacTokyo](https://github.com/mactokyo)** · [Website](https://mactokyo.com/)
+
+---
 
 > Not an official OpenAI app and not affiliated with OpenAI. ChatGPT is a trademark of OpenAI.
 > 非 OpenAI 官方应用，与 OpenAI 没有关联。ChatGPT 是 OpenAI 的商标。
