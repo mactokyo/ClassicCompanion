@@ -1,6 +1,6 @@
 <img src="assets/poster-en.png" alt="Classic Companion — One press away. The Option Space shortcut and two native macOS chat windows." width="960">
 
-# Classic Companion
+# <img src="assets/app-icon.png" alt="" width="48" height="48" align="absmiddle"> Classic Companion
 
 The official ChatGPT website, a shortcut away in a native macOS window.
 
