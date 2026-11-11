@@ -35,6 +35,8 @@ Built by **[Mac Xiang](https://github.com/xtymac)** at **[MacTokyo](https://gith
 
 ## 简体中文
 
+<img src="assets/poster-zh-hans.png" alt="Classic Companion 宣传图：标题“一按，就在眼前。”，⌥ + Space 快捷键，两个显示 ChatGPT 对话的小窗。" width="960">
+
 Classic Companion 用原生 macOS 窗口打开 ChatGPT 官方网页。默认按 `⌥Space` 唤出，`⌃⌘F` 切换小窗和完整窗口；两个快捷键都可以在 设置 → 快捷键 里改。如果别的应用也用同一个组合，按下时可能会触发那个应用，也可能让这里的快捷键不起作用，请换一个组合。
 
 本仓库只用来发布试用版和收集反馈，不含源码；应用没有以开源许可证发布。
@@ -131,6 +133,8 @@ Classic Companion 以原生 macOS 視窗開啟 ChatGPT 官方網頁。預設按 
 
 ## English
 
+<img src="assets/poster-en.png" alt="Classic Companion poster: “One press away.” with the ⌥ + Space shortcut and two Quick windows showing ChatGPT chats." width="960">
+
 Classic Companion opens the official ChatGPT website in a native macOS window. By default, press `⌥Space` to bring it up and `⌃⌘F` to switch between the Quick and Full window; you can change both under Settings → Shortcuts. If another app uses the same combination, pressing it may trigger that app or stop the shortcut from working here, so choose a different combination.
 
 This repository is used only to publish trial builds and collect feedback. It doesn’t contain the source code, and the app isn’t released under an open-source license.
@@ -178,6 +182,8 @@ The first time you open it, macOS may ask you to confirm; check that it’s Clas
 **Feedback**: please use [Issues](https://github.com/mactokyo/ClassicCompanion/issues) and include the text from Copy Version Info in the About Classic Companion window. Issues are public, so don’t paste chat content, account details or private content from screenshots.
 
 ## 日本語
+
+<img src="assets/poster-ja.png" alt="Classic Companion の紹介画像：「ひと押しで、すぐそこに。」、⌥ + Space のショートカット、ChatGPT を表示したクイックウインドウ 2 つ。" width="960">
 
 Classic Companion は、ChatGPT の公式 Web サイトをネイティブの macOS ウインドウで開きます。初期設定では `⌥Space` で呼び出し、`⌃⌘F` でクイックウインドウとフルウインドウを切り替えます。どちらも 設定 → ショートカット で変更できます。ほかのアプリが同じ組み合わせを使っていると、押したときにそのアプリが反応したり、このアプリのショートカットが効かなくなったりすることがあるので、別の組み合わせに変えてください。
 
