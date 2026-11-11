@@ -1,8 +1,8 @@
 > **Moved / 已迁移 / 移転しました** → [xtymac/ClassicCompanion](https://github.com/xtymac/ClassicCompanion). Source, DMG downloads and new feedback are now in one place. This legacy repository and its original release remain available.
 
-<img src="assets/poster-en.png" alt="Classic Companion — One press away. The Option Space shortcut and two native macOS chat windows." width="960">
+<img src="https://raw.githubusercontent.com/xtymac/ClassicCompanion/main/assets/marketing/poster-en.png" alt="Classic Companion — One press away. The Option Space shortcut and two native macOS chat windows." width="960">
 
-# <img src="assets/app-icon.png" alt="" width="48" height="48" align="absmiddle"> Classic Companion
+# <img src="https://raw.githubusercontent.com/xtymac/ClassicCompanion/main/assets/icon/AppIcon-1024.png" alt="" width="48" height="48" align="absmiddle"> Classic Companion
 
 The official ChatGPT website, a shortcut away in a native macOS window.
 
@@ -17,7 +17,7 @@ The official ChatGPT website, a shortcut away in a native macOS window.
 <details>
 <summary>展开使用说明、安装步骤与已知问题</summary>
 
-<img src="assets/poster-zh-hans.png" alt="Classic Companion 宣传图：标题“一按，就在眼前。”，⌥ + Space 快捷键，两个显示 ChatGPT 对话的小窗。" width="960">
+<img src="https://raw.githubusercontent.com/xtymac/ClassicCompanion/main/assets/marketing/poster-zh-hans.png" alt="Classic Companion 宣传图：标题“一按，就在眼前。”，⌥ + Space 快捷键，两个显示 ChatGPT 对话的小窗。" width="960">
 
 Classic Companion 用原生 macOS 窗口打开 ChatGPT 官方网页。默认按 `⌥Space` 唤出，`⌃⌘F` 切换小窗和完整窗口；两个快捷键都可以在 设置 → 快捷键 里改。如果别的应用也用同一个组合，按下时可能会触发那个应用，也可能让这里的快捷键不起作用，请换一个组合。
 
@@ -74,7 +74,7 @@ Classic Companion 用原生 macOS 窗口打开 ChatGPT 官方网页。默认按 
 <details>
 <summary>展開使用說明、安裝步驟與已知問題</summary>
 
-<img src="assets/poster-zh-hant.png" alt="Classic Companion 宣傳圖：標題「一按，就在眼前。」，⌥ + Space 快速鍵，兩個顯示 ChatGPT 對話的小視窗。" width="960">
+<img src="https://raw.githubusercontent.com/xtymac/ClassicCompanion/main/assets/marketing/poster-zh-hant.png" alt="Classic Companion 宣傳圖：標題「一按，就在眼前。」，⌥ + Space 快速鍵，兩個顯示 ChatGPT 對話的小視窗。" width="960">
 
 Classic Companion 以原生 macOS 視窗開啟 ChatGPT 官方網頁。預設按 `⌥Space` 叫出，`⌃⌘F` 切換小視窗和完整視窗；兩個快速鍵都可以在 設定 → 快速鍵 中更改。如果其他 App 也使用同一個組合，按下時可能會觸發那個 App，也可能讓這裡的快速鍵無法使用，請換一個組合。
 
@@ -186,7 +186,7 @@ The first time you open it, macOS may ask you to confirm; check that it’s Clas
 <details>
 <summary>使い方・インストール手順・既知の問題を表示</summary>
 
-<img src="assets/poster-ja.png" alt="Classic Companion の紹介画像：「ひと押しで、すぐそこに。」、⌥ + Space のショートカット、ChatGPT を表示したクイックウインドウ 2 つ。" width="960">
+<img src="https://raw.githubusercontent.com/xtymac/ClassicCompanion/main/assets/marketing/poster-ja.png" alt="Classic Companion の紹介画像：「ひと押しで、すぐそこに。」、⌥ + Space のショートカット、ChatGPT を表示したクイックウインドウ 2 つ。" width="960">
 
 Classic Companion は、ChatGPT の公式 Web サイトをネイティブの macOS ウインドウで開きます。初期設定では `⌥Space` で呼び出し、`⌃⌘F` でクイックウインドウとフルウインドウを切り替えます。どちらも 設定 → ショートカット で変更できます。ほかのアプリが同じ組み合わせを使っていると、押したときにそのアプリが反応したり、このアプリのショートカットが効かなくなったりすることがあるので、別の組み合わせに変えてください。
 
