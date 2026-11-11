@@ -240,4 +240,4 @@ ZIP からインストールする場合：
 
 ---
 
-Made by [Mac Xiang](https://github.com/xtymac) · [MacTokyo](https://github.com/mactokyo)
+Made by [Mac Xiang](https://github.com/xtymac) · [MacTokyo](https://mactokyo.com/)
