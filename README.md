@@ -1,10 +1,12 @@
+> **Moved / 已迁移 / 移転しました** → [xtymac/ClassicCompanion](https://github.com/xtymac/ClassicCompanion). Source, DMG downloads and new feedback are now in one place. This legacy repository and its original release remain available.
+
 <img src="assets/poster-en.png" alt="Classic Companion — One press away. The Option Space shortcut and two native macOS chat windows." width="960">
 
 # <img src="assets/app-icon.png" alt="" width="48" height="48" align="absmiddle"> Classic Companion
 
 The official ChatGPT website, a shortcut away in a native macOS window.
 
-**[Download DMG →](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)** · [Source · Apache-2.0](https://github.com/mactokyo/ClassicCompanion-App) · [Release notes](https://github.com/mactokyo/ClassicCompanion/releases) · [Feedback](https://github.com/mactokyo/ClassicCompanion/issues)
+**[Download DMG →](https://github.com/xtymac/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)** · [Release notes](https://github.com/xtymac/ClassicCompanion/releases) · [Feedback](https://github.com/xtymac/ClassicCompanion/issues)
 
 <sub>Public beta · macOS 15+ · Apple silicon only · Independent app, not affiliated with OpenAI.</sub>
 
@@ -19,9 +21,9 @@ The official ChatGPT website, a shortcut away in a native macOS window.
 
 Classic Companion 用原生 macOS 窗口打开 ChatGPT 官方网页。默认按 `⌥Space` 唤出，`⌃⌘F` 切换小窗和完整窗口；两个快捷键都可以在 设置 → 快捷键 里改。如果别的应用也用同一个组合，按下时可能会触发那个应用，也可能让这里的快捷键不起作用，请换一个组合。
 
-本仓库用于下载和反馈。源码已在 ClassicCompanion-App 以 Apache-2.0 开源，入口见页首；源码更新不代表已发布安装包同步更新。
+本仓库保留旧版本。源码、DMG 下载和新反馈已统一迁往页首的新仓库，源码采用 Apache-2.0；源码更新不代表已发布安装包同步更新。
 
-**现状**：首个试用版 0.1.0-beta.1 已发布，可以从 [Releases](https://github.com/mactokyo/ClassicCompanion/releases) 下载。这是试用版，不是正式稳定版。直接下载：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
+**现状**：首个试用版 0.1.0-beta.1 已发布，可以从 [Releases](https://github.com/xtymac/ClassicCompanion/releases) 下载。这是试用版，不是正式稳定版。直接下载：[DMG](https://github.com/xtymac/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
 
 **安装**
 
@@ -61,7 +63,7 @@ Classic Companion 用原生 macOS 窗口打开 ChatGPT 官方网页。默认按 
 - 在系统语言为英文的测试机上，各界面语言下编辑菜单的“撤销 / 重做”都显示为 Undo / Redo；界面是中文或日文时，“显示”菜单里没有“进入全屏幕”等项目。这是在测试机上观察到的现象，原因待查。
 - 在首选语言为英文、日文、简体中文的测试机上手动选择繁體中文时，应用原生界面里的标点按简体中文或日文的字形显示（例如“，”“。”在左下而不是居中）。这是在测试机上观察到的现象，原因尚未确认。
 
-**反馈**：请用 [Issues](https://github.com/mactokyo/ClassicCompanion/issues)，附上“关于 Classic Companion”窗口里“复制版本信息”的内容。Issues 是公开的，不要贴对话内容、账号信息或截图里的私人内容。
+**反馈**：请用 [Issues](https://github.com/xtymac/ClassicCompanion/issues)，附上“关于 Classic Companion”窗口里“复制版本信息”的内容。Issues 是公开的，不要贴对话内容、账号信息或截图里的私人内容。
 
 <sub>非 OpenAI 官方应用，与 OpenAI 没有关联。ChatGPT 是 OpenAI 的商标。</sub>
 
@@ -76,9 +78,9 @@ Classic Companion 用原生 macOS 窗口打开 ChatGPT 官方网页。默认按 
 
 Classic Companion 以原生 macOS 視窗開啟 ChatGPT 官方網頁。預設按 `⌥Space` 叫出，`⌃⌘F` 切換小視窗和完整視窗；兩個快速鍵都可以在 設定 → 快速鍵 中更改。如果其他 App 也使用同一個組合，按下時可能會觸發那個 App，也可能讓這裡的快速鍵無法使用，請換一個組合。
 
-本儲存庫用於下載與回饋。原始碼已在 ClassicCompanion-App 以 Apache-2.0 開源，入口見頁首；原始碼更新不代表已發布安裝包同步更新。
+本儲存庫保留舊版本。原始碼、DMG 下載與新回饋已統一遷往頁首的新儲存庫，原始碼採用 Apache-2.0；原始碼更新不代表已發布安裝包同步更新。
 
-**現況**：第一個試用版 0.1.0-beta.1 已發佈，可以從 [Releases](https://github.com/mactokyo/ClassicCompanion/releases) 下載。這是試用版，不是正式穩定版。直接下載：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
+**現況**：第一個試用版 0.1.0-beta.1 已發佈，可以從 [Releases](https://github.com/xtymac/ClassicCompanion/releases) 下載。這是試用版，不是正式穩定版。直接下載：[DMG](https://github.com/xtymac/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
 
 **安裝**
 
@@ -118,7 +120,7 @@ Classic Companion 以原生 macOS 視窗開啟 ChatGPT 官方網頁。預設按 
 - 在系統語言為英文的測試機上，各介面語言下「編輯」選單的「還原／重做」都顯示為 Undo / Redo；介面為中文或日文時，「顯示方式」選單中沒有「進入全螢幕」等項目。這是在測試機上觀察到的行為，原因待查。
 - 在偏好語言為英文、日文、簡體中文的測試機上手動選擇繁體中文時，App 原生介面中的標點會以簡體中文或日文的字形顯示（例如「，」「。」位於左下而非置中）。這是在測試機上觀察到的行為，原因尚未確認。
 
-**回饋**：請使用 [Issues](https://github.com/mactokyo/ClassicCompanion/issues)，附上「關於 Classic Companion」視窗中「拷貝版本資訊」的內容。Issues 是公開的，請勿貼上對話內容、帳號資訊或截圖中的私人內容。
+**回饋**：請使用 [Issues](https://github.com/xtymac/ClassicCompanion/issues)，附上「關於 Classic Companion」視窗中「拷貝版本資訊」的內容。Issues 是公開的，請勿貼上對話內容、帳號資訊或截圖中的私人內容。
 
 <sub>非 OpenAI 官方 App，與 OpenAI 沒有關聯。ChatGPT 是 OpenAI 的商標。</sub>
 
@@ -131,9 +133,9 @@ Classic Companion 以原生 macOS 視窗開啟 ChatGPT 官方網頁。預設按 
 
 Classic Companion opens the official ChatGPT website in a native macOS window. By default, press `⌥Space` to bring it up and `⌃⌘F` to switch between the Quick and Full window; you can change both under Settings → Shortcuts. If another app uses the same combination, pressing it may trigger that app or stop the shortcut from working here, so choose a different combination.
 
-This repository hosts downloads and feedback. Source is available under Apache-2.0 in ClassicCompanion-App via the link above. Source changes may not yet be included in published installers.
+This legacy repository preserves old releases. Source (Apache-2.0), downloads and new feedback now live together in the repository linked above. Source changes may not yet be included in published installers.
 
-**Status**: the first trial build, 0.1.0-beta.1, is out. You can download it from [Releases](https://github.com/mactokyo/ClassicCompanion/releases). It’s a trial build, not a stable release. Direct download: [DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
+**Status**: the first trial build, 0.1.0-beta.1, is out. You can download it from [Releases](https://github.com/xtymac/ClassicCompanion/releases). It’s a trial build, not a stable release. Direct download: [DMG](https://github.com/xtymac/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
 
 **Install**
 
@@ -173,7 +175,7 @@ The first time you open it, macOS may ask you to confirm; check that it’s Clas
 - On the test Mac, whose system language is English, the Edit menu shows Undo / Redo in English whatever the app language, and with the app in Chinese or Japanese the View menu has no Enter Full Screen and similar items. This was observed on the test Mac; the cause hasn’t been confirmed.
 - On the test Mac, whose preferred languages are English, Japanese and Simplified Chinese, choosing Traditional Chinese by hand shows punctuation in the app’s native windows in its Simplified Chinese or Japanese form (for example, “，” and “。” sit at the lower left instead of the center). This was observed on the test Mac; the cause hasn’t been confirmed.
 
-**Feedback**: please use [Issues](https://github.com/mactokyo/ClassicCompanion/issues) and include the text from Copy Version Info in the About Classic Companion window. Issues are public, so don’t paste chat content, account details or private content from screenshots.
+**Feedback**: please use [Issues](https://github.com/xtymac/ClassicCompanion/issues) and include the text from Copy Version Info in the About Classic Companion window. Issues are public, so don’t paste chat content, account details or private content from screenshots.
 
 <sub>Not an official OpenAI app and not affiliated with OpenAI. ChatGPT is a trademark of OpenAI.</sub>
 
@@ -188,9 +190,9 @@ The first time you open it, macOS may ask you to confirm; check that it’s Clas
 
 Classic Companion は、ChatGPT の公式 Web サイトをネイティブの macOS ウインドウで開きます。初期設定では `⌥Space` で呼び出し、`⌃⌘F` でクイックウインドウとフルウインドウを切り替えます。どちらも 設定 → ショートカット で変更できます。ほかのアプリが同じ組み合わせを使っていると、押したときにそのアプリが反応したり、このアプリのショートカットが効かなくなったりすることがあるので、別の組み合わせに変えてください。
 
-このリポジトリは配布とフィードバック用です。ソースは ClassicCompanion-App で Apache-2.0 として公開しています（ページ上部のリンク）。ソースの更新が配布済みインストーラーに含まれているとは限りません。
+こちらは旧リリースの保存用です。ソース（Apache-2.0）、ダウンロード、新しいフィードバックはページ上部の新リポジトリにまとめました。ソースの更新が配布済みインストーラーに含まれているとは限りません。
 
-**現在の状況**：最初のベータ版 0.1.0-beta.1 を公開しました。[Releases](https://github.com/mactokyo/ClassicCompanion/releases) からダウンロードできます。ベータ版で、安定版ではありません。直接ダウンロード：[DMG](https://github.com/mactokyo/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
+**現在の状況**：最初のベータ版 0.1.0-beta.1 を公開しました。[Releases](https://github.com/xtymac/ClassicCompanion/releases) からダウンロードできます。ベータ版で、安定版ではありません。直接ダウンロード：[DMG](https://github.com/xtymac/ClassicCompanion/releases/download/v0.1.0-beta.1/ClassicCompanion-0.1.0-beta.1-20261110.0137-arm64.dmg)
 
 **インストール**
 
@@ -230,7 +232,7 @@ ZIP からインストールする場合：
 - システムの言語が英語のテスト機では、アプリの言語にかかわらず編集メニューの「取り消す／やり直す」が Undo / Redo と表示され、アプリが中国語か日本語のときは「表示」メニューに「フルスクリーンにする」などの項目がありません。テスト機で観察された動作で、原因は未確認です。
 - 優先する言語が英語・日本語・簡体字中国語のテスト機で繁体字中国語を手動で選ぶと、アプリのネイティブ画面の句読点が簡体字中国語または日本語の字形で表示されます（たとえば「，」「。」が中央ではなく左下に寄ります）。テスト機で観察された動作で、原因は未確認です。
 
-**フィードバック**：[Issues](https://github.com/mactokyo/ClassicCompanion/issues) にお寄せください。「Classic Companion について」ウインドウの「バージョン情報をコピー」の内容を添えてください。Issues は公開されるため、チャットの内容、アカウント情報、スクリーンショットに写った個人的な内容は貼り付けないでください。
+**フィードバック**：[Issues](https://github.com/xtymac/ClassicCompanion/issues) にお寄せください。「Classic Companion について」ウインドウの「バージョン情報をコピー」の内容を添えてください。Issues は公開されるため、チャットの内容、アカウント情報、スクリーンショットに写った個人的な内容は貼り付けないでください。
 
 <sub>OpenAI の公式アプリではなく、OpenAI とは提携していません。ChatGPT は OpenAI の商標です。</sub>
 
