@@ -1,0 +1,6 @@
+# Feedback for Classic Companion has moved. See pinned issue #1.
+blank_issues_enabled: false
+contact_links:
+  - name: "Feedback has moved → xtymac/ClassicCompanion · 反馈已迁移 · 回饋已遷移 · フィードバックは移転しました"
+    url: https://github.com/xtymac/ClassicCompanion/issues
+    about: "Open new issues there · 请到新仓库提交 · 請到新倉庫提交 · 新しいリポジトリで作成してください"
